@@ -8,7 +8,7 @@
    <li>3. In the design pattern, we used Repository Design Pattern.</li>
  </ul> 
 
-![](Villa-Project-master\img\1.jpg)
+![](Villa-Project-master/img/1.jpg)
 
 
 ![](Villa-Project-master\Villa-Project-master\img\2.jpg)
