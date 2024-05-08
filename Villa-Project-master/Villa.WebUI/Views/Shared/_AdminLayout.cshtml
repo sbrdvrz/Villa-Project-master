@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+    @await Component.InvokeAsync("_AdminHeaderComponent")
+</head>
+<body>
+    <div id="main-wrapper">
+       
+        @await Component.InvokeAsync("_AdminLogoComponent")
+
+        @await Component.InvokeAsync("_AdminNavbarComponent")
+
+        @await Component.InvokeAsync("_AdminSidebarComponent")
+       
+        <div class="content-body">
+            <div class="container-fluid">
+                <div class="row page-titles mx-0">
+                    <div class="col-sm-6 p-md-0">
+                        <div class="welcome-text">
+                            <h4>@ViewData["Title"]</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-body">
+                                @RenderBody()
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @await Component.InvokeAsync("_AdminFooterComponent")
+      
+    </div>
+
+    @await Component.InvokeAsync("_AdminScriptComponent")
+</body>
+</html>

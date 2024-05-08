@@ -1,0 +1,12 @@
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\bin\Debug\net7.0\Villa.DTO.deps.json
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\bin\Debug\net7.0\Villa.DTO.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\bin\Debug\net7.0\Villa.DTO.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.csproj.AssemblyReference.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.AssemblyInfoInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.AssemblyInfo.cs
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\refint\Villa.DTO.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\Villa.DTO.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.DTO\obj\Debug\net7.0\ref\Villa.DTO.dll

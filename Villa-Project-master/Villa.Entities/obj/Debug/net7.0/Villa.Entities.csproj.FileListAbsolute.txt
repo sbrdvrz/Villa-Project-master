@@ -1,0 +1,12 @@
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\bin\Debug\net7.0\Villa.Entities.deps.json
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\bin\Debug\net7.0\Villa.Entities.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\bin\Debug\net7.0\Villa.Entities.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.csproj.AssemblyReference.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.AssemblyInfoInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.AssemblyInfo.cs
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\refint\Villa.Entities.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\Villa.Entities.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Entities\obj\Debug\net7.0\ref\Villa.Entities.dll

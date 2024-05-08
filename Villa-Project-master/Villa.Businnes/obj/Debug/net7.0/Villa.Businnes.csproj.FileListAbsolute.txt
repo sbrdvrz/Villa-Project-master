@@ -1,0 +1,17 @@
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Businnes.deps.json
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Businnes.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Businnes.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Data.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Entities.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Data.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\bin\Debug\net7.0\Villa.Entities.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.csproj.AssemblyReference.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.AssemblyInfoInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.AssemblyInfo.cs
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.csproj.CoreCompileInputs.cache
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Bu.FCC52E9D.Up2Date
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\refint\Villa.Businnes.dll
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\Villa.Businnes.pdb
+C:\Users\dvrzb\Desktop\Villa-Project-master\Villa.Businnes\obj\Debug\net7.0\ref\Villa.Businnes.dll
