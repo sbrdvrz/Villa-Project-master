@@ -11,21 +11,21 @@
 ![](Villa-Project-master/img/1.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\2.jpg)
+![](Villa-Project-master/img/2.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\3.jpg)
+![](Villa-Project-master/img/3.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\4.jpg)
+![](Villa-Project-master/img/4.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\5.jpg)
+![](Villa-Project-master/img/5.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\6.jpg)
+![](Villa-Project-master/img/6.jpg)
 
-![](Villa-Project-master\Villa-Project-master\img\7.jpg)
+![](Villa-Project-master/img/7.jpg)
 
 
-![](Villa-Project-master\Villa-Project-master\img\8.jpg)
+![](Villa-Project-master/img/8.jpg)
